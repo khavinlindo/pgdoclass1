@@ -11,7 +11,7 @@ pipeline {
 				branch 'demo'
 			}
 			steps {
-				sh 'cat demo1.txt'
+				sh 'cat demo.txt'
 			}
 		}
 	}
