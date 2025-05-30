@@ -1,1 +1,1 @@
-# pgdoclass1
+# pgdoclass1 - test
