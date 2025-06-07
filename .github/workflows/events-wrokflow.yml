@@ -1,4 +1,4 @@
-name: Event based workglow execution
+name: Event based workflow execution
 
 on: 
   push: 
@@ -13,7 +13,7 @@ on:
 
 jobs:
   reuse_job:
-    uses: ./.github/workflows/reuseme.yml
+    uses: ./.github/workflows/resueme.yml
     
   main_job:
     runs-on: ubuntu-latest
